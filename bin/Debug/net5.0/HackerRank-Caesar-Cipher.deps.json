@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HackerRank-Caesar-Cipher/1.0.0": {
+        "runtime": {
+          "HackerRank-Caesar-Cipher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HackerRank-Caesar-Cipher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
